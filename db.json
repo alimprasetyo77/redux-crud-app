@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React",
+      "content": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, at."
+    },
+    {
+      "id": 2,
+      "title": "Node-App",
+      "content": "Repair summer one winter living feebly pretty his. In so sense am known these since. Shortly respect ask cousins brought add tedious nay. Expect relied do we genius is. On as around spirit of hearts genius. Is raptures daughter branched laughter peculiar in settling.\n"
+    },
+    {
+      "id": 3,
+      "title": "MongoDB",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, at."
+    },
+    {
+      "id": 4,
+      "title": "MySQL",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, at."
+    },
+    {
+      "title": "react-redux-app",
+      "content": "Am if number no up period regard sudden better. Decisively surrounded all admiration and not you. Out particular sympathize not favourable introduced insipidity but ham. Rather number can and set praise. Distrusts an it contented perceived attending oh. Thoroughly estimating introduced stimulated why but motionless.",
+      "id": 5
+    },
+    {
+      "title": "Express",
+      "content": "In by an appetite no humoured returned informed. Possession so comparison inquietude he he conviction no decisively. Marianne jointure attended she hastened surprise but she. Ever lady son yet you very paid form away. He advantage of exquisite resolving if on tolerably. Become sister on in garden it barton waited on.\n",
+      "id": 6
+    }
+  ]
+}

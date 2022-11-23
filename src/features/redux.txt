@@ -1,0 +1,23 @@
+// Actions
+// Sebuah JavaScript Object =
+
+
+// reducers Adalah sebuah fungsi yang tugasnya untuk mengolah state yang ada di store.
+// Reducers
+// Function yang menerima actions yang berisi object state dan object action, bertugas menentukan bagaimana suatu state diubah. Output reducer adalah state baru.
+// Syntax: (state, action) => newState
+
+
+
+
+// Store
+// Tempat dimana global state disimpan.
+
+// Dispatch
+// Satu-satunya cara untuk mengubah state di dalam store adalah dengan memanggil method bernama dispatch yang berisi object action, kemudian Redux akan mengeksekusi reducer yang sesuai.
+
+// Selector
+// Function yang digunakan untuk mendapatkan data dari state yang ada di dalam store.
+
+// Payload adalah value yang ada di dalam action.
+

@@ -1,0 +1,5 @@
+{
+  "editor.fontFamily": "'JetBrains Mono','Droid Sans Mono', 'monospace', monospace",
+  "editor.renderWhitespace": "selection",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
